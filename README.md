@@ -58,12 +58,12 @@ Take this classic realism portrait and reproduce it as a digital anime-style ill
 
 * Original
 
-<img width="318" height="480" alt="image" src="https://github.com/user-attachments/assets/59dafdb5-c073-40cb-bb07-250d82b648b3" />
+<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/59dafdb5-c073-40cb-bb07-250d82b648b3" />
 
 
 * Reproduced
 
-<img width="683" height="1024" alt="image" src="https://github.com/user-attachments/assets/7ff635c7-24f4-4b56-8cf4-869e73b8b82d" />
+<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/7ff635c7-24f4-4b56-8cf4-869e73b8b82d" />
 
 # Result:
 Thus the image is generated and verified successfully.
